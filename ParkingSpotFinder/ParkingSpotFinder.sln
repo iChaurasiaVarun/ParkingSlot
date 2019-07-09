@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29021.104
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingSpotFinder", "ParkingSpotFinder.csproj", "{8A5BF690-DAB4-4E4D-A2AC-03AB8CFCDB3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingSpotTest", "..\ParkingSpotTest\ParkingSpotTest.csproj", "{189709EC-4506-475C-B5E5-093FF4EA9A81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A5BF690-DAB4-4E4D-A2AC-03AB8CFCDB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5BF690-DAB4-4E4D-A2AC-03AB8CFCDB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5BF690-DAB4-4E4D-A2AC-03AB8CFCDB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5BF690-DAB4-4E4D-A2AC-03AB8CFCDB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189709EC-4506-475C-B5E5-093FF4EA9A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189709EC-4506-475C-B5E5-093FF4EA9A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189709EC-4506-475C-B5E5-093FF4EA9A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189709EC-4506-475C-B5E5-093FF4EA9A81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E208FD4-61F8-4096-B138-BB9168004F48}
+	EndGlobalSection
+EndGlobal

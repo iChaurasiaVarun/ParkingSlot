@@ -1,0 +1,9 @@
+C:\Users\varun\source\repos\ParkingSpotFinder\bin\Debug\netstandard2.0\ParkingSpotFinder.deps.json
+C:\Users\varun\source\repos\ParkingSpotFinder\bin\Debug\netstandard2.0\ParkingSpotFinder.dll
+C:\Users\varun\source\repos\ParkingSpotFinder\bin\Debug\netstandard2.0\ParkingSpotFinder.pdb
+C:\Users\varun\source\repos\ParkingSpotFinder\obj\Debug\netstandard2.0\ParkingSpotFinder.csprojAssemblyReference.cache
+C:\Users\varun\source\repos\ParkingSpotFinder\obj\Debug\netstandard2.0\ParkingSpotFinder.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\ParkingSpotFinder\obj\Debug\netstandard2.0\ParkingSpotFinder.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\ParkingSpotFinder\obj\Debug\netstandard2.0\ParkingSpotFinder.AssemblyInfo.cs
+C:\Users\varun\source\repos\ParkingSpotFinder\obj\Debug\netstandard2.0\ParkingSpotFinder.dll
+C:\Users\varun\source\repos\ParkingSpotFinder\obj\Debug\netstandard2.0\ParkingSpotFinder.pdb
